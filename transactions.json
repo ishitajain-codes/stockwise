@@ -1,0 +1,34 @@
+[
+    {
+        "action": "Added",
+        "name": "TATA",
+        "symbol": "TC",
+        "quantity": 12,
+        "buy_price": 200.0,
+        "current_price": 350.0
+    },
+    {
+        "action": "Added",
+        "name": "Infosys",
+        "symbol": "INFY",
+        "quantity": 10,
+        "buy_price": 400.0,
+        "current_price": 300.0
+    },
+    {
+        "action": "Updated",
+        "name": "Infosys",
+        "symbol": "INFY",
+        "quantity": 20,
+        "buy_price": 500.0,
+        "current_price": 600.0
+    },
+    {
+        "action": "Removed",
+        "name": "TATA",
+        "symbol": "TC",
+        "quantity": 12,
+        "buy_price": 200.0,
+        "current_price": 350.0
+    }
+]

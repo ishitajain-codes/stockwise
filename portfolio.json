@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Infosys",
+        "symbol": "INFY",
+        "quantity": 20,
+        "buy_price": 500.0,
+        "current_price": 600.0
+    }
+]
